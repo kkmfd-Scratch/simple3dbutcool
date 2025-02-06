@@ -1,2 +1,2 @@
-# simple3dbutcool
+# react-component-shader
 Created with CodeSandbox
